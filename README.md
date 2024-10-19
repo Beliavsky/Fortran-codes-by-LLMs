@@ -1,4 +1,4 @@
-# Fortran-codes-by-LLMs
+# Fortran codes by LLMs
 Peter Norvig [asked some LLMs](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb) to "Write a Python program to list all the ways in which three distinct positive integers have a product of 108.". On 2024-10-19, I asked ChatGPT-4o, "Write a Fortran program to list all the ways in which three distinct positive integers have a product of 108, creating a subroutine with one argument that is set to 108 in the caller." It produced
 
 ```Fortran
