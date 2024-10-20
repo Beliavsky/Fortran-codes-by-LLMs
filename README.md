@@ -67,7 +67,7 @@ contains
 
 end program find_triplets
 ```
-Prompted to "change the program to use 64-bit integers so that it will work for larger values of product," it produced (with some printing added by me and larger value of n used)
+Prompted to "change the program to use 64-bit integers so that it will work for larger values of product," it produced (with some printing added by me and a larger value of n used)
 
 ```Fortran
 program find_triplets
